@@ -1,1 +1,1 @@
-Contains Privacy Policy, Terms & Conditions documents for studyMi app.
+Contains Privacy Policy, support documents for studyMi app.
